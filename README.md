@@ -1,4 +1,4 @@
-Temporary Username and Password Generator (Leran Python Codecademy Project 1/24/2022)
+Temporary Username and Password Generator (Learn Python Codecademy Project 1/24/2022)
 
 Program that generates a username and password. It's a basic structure that uses some builtin functions like len() along with lists as the data structure 
 and strings as the data type. I utilized range indexing for string splicing.
